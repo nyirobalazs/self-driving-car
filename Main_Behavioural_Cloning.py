@@ -171,5 +171,4 @@ plt.plot(history.history['val_loss'])
 plt.yscale('log')
 plt.legend(['Training loss','Validation loss'])
 plt.savefig('v4_training'+str(datetime.now())+'.png')
-
     
