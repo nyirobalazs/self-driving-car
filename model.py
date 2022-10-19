@@ -23,4 +23,3 @@ class Model:
         angle = 80 * np.clip(angle, 0, 1) + 50
         speed = 35 * np.clip(speed, 0, 1)
         return angle, speed
-
