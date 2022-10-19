@@ -20,3 +20,7 @@ The paper from the project is available [HERE](https://github.com/nyirobalazs/se
 - This is finally followed by three fully connected layers that allow the extracted information to be mapped to steering angles and velocities. 
 - In the final architecture, a batch normalization layer is added after each block, as a regularization method to normalize the data and thus allow more accurate prediction. 
 - There were two separate output layers (one for velocity and one for steering angle), with sigmoid activation due to the regression property of the problem. - -Also as a consequence, the loss value was calculated using Mean Square Error (MSE).
+
+# Result
+
+![Video](https://github.com/nyirobalazs/self-driving-car/blob/main/assets/self_driving.gif)
