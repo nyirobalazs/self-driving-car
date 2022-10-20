@@ -4,7 +4,7 @@ In this paper, my colleague and I implemented a modified NVIDIA behavioral cloni
 
 The project description is available [HERE](https://github.com/nyirobalazs/self-driving-car/blob/main/assets/MLiS_Project_2022.pdf)
 <br>
-The paper from the project is available [HERE](https://github.com/nyirobalazs/self-driving-car/blob/main/Modified_NVIDIA_based_end_to_end_self_driving_model.pdf)
+The paper about the project is available [HERE](https://github.com/nyirobalazs/self-driving-car/blob/main/Modified_NVIDIA_based_end_to_end_self_driving_model.pdf)
 
 [![Self driving](./assets/self-drive-poster%20(1).jpg)]()
 
